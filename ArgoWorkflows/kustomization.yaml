@@ -5,4 +5,3 @@ namespace: argo
 resources:
 - ns.yaml
 - https://github.com/argoproj/argo-workflows/releases/download/v3.5.8/quick-start-minimal.yaml
-- ../workflow-template
