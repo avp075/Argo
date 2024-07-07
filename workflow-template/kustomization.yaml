@@ -4,3 +4,4 @@ kind: Kustomization
 namespace: argo
 resources:
 - workflow-template.yaml
+- workflow.yaml
